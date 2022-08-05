@@ -6,7 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # <"Bhavantu" Santiago Bouza>
+   # < "Bhavantu" Santiago Bouza >
 
    # Input:
    # p, principal amount
